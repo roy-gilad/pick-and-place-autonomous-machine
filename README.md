@@ -1,7 +1,7 @@
 # pick-and-place-autonomous-machine
 Prototype development for an eggs collection autonomous machine
 
-# Summary
+# introduction
 In the modern egg industry, the chicken eggs come from the cells with a conveyor belt to the tables.
 The eggs collection machines that are available in the market designed for farms with chicken coops of over 10,000 chickens. 
 The machines are big and covers area of 10 square meters and require a structural change that most farms cannot afford.
@@ -11,6 +11,7 @@ The required time for a worker to pick the eggs in these coops is about five hou
 The automatic eggs picking machine is designed to replace the operation of the worker.
 it's small, adapted to each coop and does not require a structural change of the existing coop.
 The aim of the project is to develop a prototype for a Pick&Place machine, with full automation.
+
 The project is divided into 3 main levels: mechanical design, electronics, and image processing. 
 Mechanical design-
 Production, design and assembly of the Pick&Place prototype machine which allows movement in 5 degrees of freedom, collecting an egg with a vacuum without damaging the egg. 
