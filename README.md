@@ -1,7 +1,7 @@
 # pick-and-place-autonomous-machine
 Prototype development for an eggs collection autonomous machine
 
-Summary
+# Summary
 In the modern egg industry, the chicken eggs come from the cells with a conveyor belt to the tables.
 The eggs collection machines that are available in the market designed for farms with chicken coops of over 10,000 chickens. The machines are big and covers area of ​​10 square meters and require a structural change that most farms cannot afford.
 My family farm has a coop of 2,000 chickens. The required time for picking the eggs is about an hour per person every day. There are bigger coops in the Moshav, of 10,000 chickens. The required time for a worker to pick the eggs in these coops is about five hours every day. Even in the newest coops, picking method is the same.
