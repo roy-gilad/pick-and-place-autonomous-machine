@@ -12,7 +12,7 @@ The automatic eggs picking machine is designed to replace the operation of the w
 it's small, adapted to each coop and does not require a structural change of the existing coop.
 The aim of the project is to develop a prototype for a Pick&Place machine, with full automation.
 
-**The project is divided into 3 main levels:**
+**The project divide to 3 main levels:**
 
 
   - Mechanical design- 
