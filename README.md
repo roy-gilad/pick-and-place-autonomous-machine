@@ -22,3 +22,9 @@ The project is divided into 3 main levels: mechanical design, electronics, and i
   
   Image processing-
     Code written in Python language. Includes decoding the location and orientation of the egg and transferring the data to the microcontroller in order to collect the egg anywhere in the workspace, without any human intervention and in full autonomy.
+
+
+![Capture](https://user-images.githubusercontent.com/85583464/145715503-e51a5250-fb5c-4311-9a2e-b24b5a39337b.PNG)
+
+
+![WhatsApp Image 2021-12-12 at 16 04 19](https://user-images.githubusercontent.com/85583464/145715588-a1fde013-8d1e-4f12-9a34-aba2c1d9c9a2.jpeg)
