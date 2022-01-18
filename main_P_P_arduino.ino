@@ -1,11 +1,3 @@
-/*
- main program
-
- 1. need to check that 1600 step its one revolve
- 
- */
-
-
 
 #include <AccelStepper.h>
 #include <MultiStepper.h>
